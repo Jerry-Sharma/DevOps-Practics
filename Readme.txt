@@ -1,1 +1,1 @@
-THis template is downloaded from BootstrapMade.com for DevOps practics purposes. 
+THis template was downloaded from BootstrapMade.com for DevOps practics purposes. 
